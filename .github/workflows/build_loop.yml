@@ -215,9 +215,10 @@ jobs:
           override_sens \
           now_line \
           meal_week \
-          2002 \
+          profiles \
           basal_lock \
-          negative_insulin 
+          negative_insulin
+
           
 
           # the final customization listed above CANNOT have a continuation character
